@@ -81,6 +81,9 @@ We will run your code in the following manner:
 	- Note that you should run the model whose *target* domain corresponds with `$3`. For example, when `$3` is `mnistm`, you should make your prediction using your "USPS→MNIST-M" model, **NOT** your "MNIST-M→SVHN" model.
 -   `$4` is the path to your output prediction file (e.g. `hw3_data/digits/mnistm/test_pred.csv`).
 
+> 🆕 ***NOTE***  
+> For the sake of conformity, please use the `python3` command to call your `.py` files in all your shell scripts. Do not use `python` or other aliases, otherwise your commands may fail in our autograding scripts.
+
 ### Packages
 Below is a list of packages you are allowed to import in this assignment:
 
