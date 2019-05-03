@@ -95,7 +95,7 @@ Below is a list of packages you are allowed to import in this assignment:
 > [`numpy`](http://www.numpy.org/): 1.16.2  
 > [`pandas`](https://pandas.pydata.org/): 0.24.0  
 > [`torchvision`](https://pypi.org/project/torchvision/): 0.2.2  
-> [`cv2`](https://pypi.org/project/opencv-python/), [`matplotlib`](https://matplotlib.org/), [`skimage`](https://scikit-image.org/), [`Pillow`](https://pillow.readthedocs.io/en/stable/), [`scipy`](https://www.scipy.org/)  
+> [`cv2`](https://pypi.org/project/opencv-python/), [`matplotlib`](https://matplotlib.org/), [`skimage`](https://scikit-image.org/), [`Pillow`](https://pillow.readthedocs.io/en/stable/), [`scipy`](https://www.scipy.org/), [`imageio`](https://pypi.org/project/imageio/)  
 > [The Python Standard Library](https://docs.python.org/3/library/)
 
 Note that using packages with different versions will very likely lead to compatibility issues, so make sure that you install the correct version if one is specified above. E-mail or ask the TAs first if you want to import other packages.
